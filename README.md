@@ -5,6 +5,6 @@ Como ya mencione, realizaremos varios modelos de los cuales elegiremos a uno par
 
 - [Reporte en formato html](./P_P3_Redes_Neuronales_654375.html)
 - [Reporte en formato ipynb](./P_P3_Redes_Neuronales_654375.ipynb)
-- [Reporte en formato ipynb](./P_P3_Redes_Neuronales_Tiempo_Real_654375.ipynb)
-- [Reporte en formato ipynb](./P_P3_654375_presentación.pdf)
-- [Reporte en formato ipynb](./P_P3_654375_presentación.mp4)
+- [Tiempo Real](./P_P3_Redes_Neuronales_Tiempo_Real_654375.ipynb)
+- [Presentacion](./P_P3_654375_presentación.pdf)
+- [Video](./P_P3_654375_video.mp4)
